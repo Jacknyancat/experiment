@@ -1,2 +1,2 @@
-Print (hello world)
+puts "hello world"
 
