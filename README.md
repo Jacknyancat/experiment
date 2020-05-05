@@ -1,2 +1,2 @@
-# experiment
-learning how to code
+puts "hello world"
+
